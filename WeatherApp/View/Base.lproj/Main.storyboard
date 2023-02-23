@@ -32,7 +32,7 @@
                                                     <constraint firstAttribute="width" constant="40" id="Gdg-gN-rvc"/>
                                                     <constraint firstAttribute="height" constant="40" id="JLX-SP-jLB"/>
                                                 </constraints>
-                                                <color key="tintColor" systemColor="labelColor"/>
+                                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <state key="normal" backgroundImage="location.circle.fill" catalog="system"/>
                                                 <connections>
                                                     <action selector="locationPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="jhM-LU-y3a"/>
@@ -50,6 +50,7 @@
                                                     <constraint firstAttribute="height" constant="40" id="fiO-2W-UTJ"/>
                                                     <constraint firstAttribute="width" constant="40" id="fn6-Kr-iSP"/>
                                                 </constraints>
+                                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                                 <color key="tintColor" systemColor="labelColor"/>
                                                 <state key="normal" backgroundImage="magnifyingglass" catalog="system"/>
                                                 <connections>

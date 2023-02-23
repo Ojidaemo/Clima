@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		87616F3F298C1A7F0043E4C4 /* WeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		87616F3F298C1A7F0043E4C4 /* Clima.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Clima.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87616F42298C1A7F0043E4C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87616F44298C1A7F0043E4C4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		87616F46298C1A7F0043E4C4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,7 +54,7 @@
 		87616F40298C1A7F0043E4C4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				87616F3F298C1A7F0043E4C4 /* WeatherApp.app */,
+				87616F3F298C1A7F0043E4C4 /* Clima.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -103,9 +103,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		87616F3E298C1A7F0043E4C4 /* WeatherApp */ = {
+		87616F3E298C1A7F0043E4C4 /* Clima */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 87616F53298C1A800043E4C4 /* Build configuration list for PBXNativeTarget "WeatherApp" */;
+			buildConfigurationList = 87616F53298C1A800043E4C4 /* Build configuration list for PBXNativeTarget "Clima" */;
 			buildPhases = (
 				87616F3B298C1A7F0043E4C4 /* Sources */,
 				87616F3C298C1A7F0043E4C4 /* Frameworks */,
@@ -115,9 +115,9 @@
 			);
 			dependencies = (
 			);
-			name = WeatherApp;
+			name = Clima;
 			productName = WeatherApp;
-			productReference = 87616F3F298C1A7F0043E4C4 /* WeatherApp.app */;
+			productReference = 87616F3F298C1A7F0043E4C4 /* Clima.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -135,7 +135,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 87616F3A298C1A7F0043E4C4 /* Build configuration list for PBXProject "WeatherApp" */;
+			buildConfigurationList = 87616F3A298C1A7F0043E4C4 /* Build configuration list for PBXProject "Clima" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -148,7 +148,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				87616F3E298C1A7F0043E4C4 /* WeatherApp */,
+				87616F3E298C1A7F0043E4C4 /* Clima */,
 			);
 		};
 /* End PBXProject section */
@@ -373,7 +373,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		87616F3A298C1A7F0043E4C4 /* Build configuration list for PBXProject "WeatherApp" */ = {
+		87616F3A298C1A7F0043E4C4 /* Build configuration list for PBXProject "Clima" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				87616F51298C1A800043E4C4 /* Debug */,
@@ -382,7 +382,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		87616F53298C1A800043E4C4 /* Build configuration list for PBXNativeTarget "WeatherApp" */ = {
+		87616F53298C1A800043E4C4 /* Build configuration list for PBXNativeTarget "Clima" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				87616F54298C1A800043E4C4 /* Debug */,
